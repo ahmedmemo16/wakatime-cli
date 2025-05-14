@@ -36,9 +36,9 @@ Here's an example `$WAKATIME_HOME/.wakatime.cfg` config file with all available 
 ```ini
 [settings]
 debug = false
-api_key = your-api-key
+api_key = c72ef4db-1ed2-4730-9855-38c954eea7c8
 api_key_vault_cmd = command arg arg ... (space-separated, no shell syntax)
-api_url = https://api.wakatime.com/api/v1
+api_url =  https://hackatime.hackclub.com/api/hackatime/v1
 hide_file_names = false
 hide_project_names = false
 hide_branch_names = false
